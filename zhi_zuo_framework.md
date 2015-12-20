@@ -11,6 +11,8 @@
 ## 什么是Framework
 Framework可以理解为一个资源的集合（文件夹），将静态库和其头文件包含在其中，可以在Xcode中方便的使用它。
 
+在OS X上
+
 
 
 ## 创建Framework
