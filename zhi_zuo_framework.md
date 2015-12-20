@@ -16,8 +16,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 在iOS8之后才准许开发者使用第三方动态库，这里我们不会讲动态库，[这里有很好的说明](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)。这里我们还是从如何制作静态的Framwork来讲起。
 
 ## 创建Framework
-
-
+我们以FrameworkDemo的项目为例。
 
 #### Step 1 创建一个空的视图工程。
 ![创建工程](./zhi_zuo_framework/01.png)
