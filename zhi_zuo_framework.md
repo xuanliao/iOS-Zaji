@@ -30,7 +30,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 
 ![添加bundle](./zhi_zuo_framework/03.png)
 ![bundel更改成framework扩展](./zhi_zuo_framework/04.png)
-正如前面所说framework可以理解为一个资源的结合，而bundle正好满足这方面的要求。这里需要将bundle Extension更改成framework。注意：再创建bundle之前我们需要先将之前创建的
+正如前面所说framework可以理解为一个资源的结合，而bundle正好满足这方面的要求。这里需要将bundle Extension更改成framework。注意：再创建bundle之前我们需要先将之前创建的FrameworkDemo的target更改下名字，为了避免与framework名字冲突，这里更改成FrameworkDemoTest。
 
 ## 如何使用Framework
 
