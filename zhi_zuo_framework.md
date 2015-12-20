@@ -23,6 +23,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 我们不是创建静态库嘛，为什么是一个视图工程？向下看吧。
 
 ### Step 2 创建静态Framework
+#### step 2.1 添加一个新的target
 
 
 ## 如何使用Framework
