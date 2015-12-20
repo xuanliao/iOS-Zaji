@@ -38,6 +38,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 前面三个targets用于做例子和单元测试。最后的FrameworkDemo就是我们需要的静态framework。但是现在还不能够使用。
 
 #### step 2.3 修改Bundle的属性
+如上图在target中选择FrameworkDemo。
 
 
 ## 如何使用Framework
