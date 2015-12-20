@@ -35,6 +35,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 **注意：再创建bundle之前我们需要先将之前创建的FrameworkDemo的target更改下名字，为了避免与framework名字冲突，这里更改成FrameworkDemoTest。**
 这样我们就有了如下的4个target。
 ![4个targets](./zhi_zuo_framework/05.png)
+前面三个targets用于做例子和单元测试。最后的FrameworkDemo就是我们需要的静态framework。但是现在还不能够使用。
 
 ## 如何使用Framework
 
