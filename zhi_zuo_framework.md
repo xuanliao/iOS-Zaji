@@ -25,6 +25,8 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ### Step 2 创建静态Framework
 #### step 2.1 添加一个新的target
 ![添加target](./zhi_zuo_framework/02.png)
+#### step 2.2 以工程名添加bundle 
+
 
 ## 如何使用Framework
 
