@@ -28,7 +28,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 #### step 2.2 以工程名添加bundle
 
 ![添加bundle](./zhi_zuo_framework/03.png)
-![bundel更改成framework后缀](./zhi_zuo_framework/04.png)
+![bundel更改成framework扩展](./zhi_zuo_framework/04.png)
 
 
 ## 如何使用Framework
