@@ -18,7 +18,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ## 创建Framework
 
 #### Step 1 创建一个空的视图工程。
-
+![创建工程](./zhi_zuo_framework/01.png)
 
 ## 如何使用Framework
 
