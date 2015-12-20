@@ -11,9 +11,9 @@
 ## 什么是Framework
 Framework可以理解为一个资源的集合（文件夹），将静态库和其头文件包含在其中，可以在Xcode中方便的使用它。
 
-在OS X上，可能会创建一个动态连接的framework。通过动态连接，framework可以热更新，不需要重新连接，并且在运行时大部分代码是共享出来，大大减少了内存消耗，提高了系统的性能
+在OS X上，可能会创建一个[动态连接](https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPFrameworks/Concepts/FrameworkBinding.html)的framework。通过动态连接，framework可以热更新，不需要重新连接，并且在运行时大部分代码是共享出来，大大减少了内存消耗，提高了系统的性能。
 
-
+在iOS8之后才准许开发者使用第三方动态库，这里我们不会讲动态库，[这里有很好的说明](http://foggry.com/blog/2014/06/12/wwdc2014zhi-iosshi-yong-dong-tai-ku/)。
 
 ## 创建Framework
 
