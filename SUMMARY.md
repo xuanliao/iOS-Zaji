@@ -1,4 +1,4 @@
 # Summary
 
-* [制作Framework](zhi_zuo_framework.md)
+* [制作静态Framework](zhi_zuo_framework.md)
 
