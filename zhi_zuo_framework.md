@@ -51,6 +51,8 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ![设置Deployment2](./zhi_zuo_framework/08.png)
 
 #### Step 2.6 因为创建的framework是供其他人使用，最好禁掉以下的功能（无效代码和Debug符号），让用户自己选择对自己项目有利的部分。
+* Dead Code Stripping设置为NO
+* Strip Debug Symbol During Copy 设置为NO
 ![设置Deployment2](./zhi_zuo_framework/09.png)
 
 
