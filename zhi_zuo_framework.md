@@ -237,6 +237,8 @@ Test.m
 ```link_with 'FrameworkDemoTest', 'FrameworkDemo'```就OK了嘛？当然不是啦，因为外部.a文件不能添加到framework中。那如何做呢？
 
 
+
+
 ## 多架构编译
 
 ## 打包资源
