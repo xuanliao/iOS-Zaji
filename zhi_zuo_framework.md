@@ -232,7 +232,7 @@ Test.m
 ```
 
 我们添加了一个执行透明动画的函数，但是很不幸的是报错了。
-错误主要原因是```POP.h file not found```
+错误主要原因是```POP.h file not found```。
 
 
 
