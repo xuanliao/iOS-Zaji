@@ -99,6 +99,13 @@ Test.h
 ```
 Test.m
 ```
+@implementation Test
+
++ (void)testSuccess {
+    NSLog(@"Hello world, FrameworkDemo");
+}
+
+@end
 
 ```
 
