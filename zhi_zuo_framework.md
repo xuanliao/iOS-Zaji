@@ -42,6 +42,10 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 #### Step 2.4 FrameworkDemo:选择Build Settings->->  Architectures -> Base SDK  改为Latest iOS(iOS9.1)
 ![设置BaseSDK](./zhi_zuo_framework/06.png)
 #### Step 2.5 FrameworkDemo:在Deployment下，
+确保"OS X Deployment Target"指向最新的os x
+将“Targeted Device。
+
+Family”更改成“1、2”，意思表明是iPhone/iPad。
 
 ![设置Deployment](./zhi_zuo_framework/07.png)
 
