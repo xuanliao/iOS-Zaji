@@ -108,6 +108,8 @@ Test.m
 @end
 
 ```
+到此，前期的准备工作已经完成，我们可以选择我们需要编译的版本，command+R运行获得Product。
+
 
 ## 如何使用Framework
 
