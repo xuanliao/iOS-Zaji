@@ -40,7 +40,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 #### Step 2.3 修改Bundle的属性
 如上图在target中选择FrameworkDemo。
 #### Step 2.4 FrameworkDemo:选择Build Settings->->  Architectures -> Base SDK  改为Latest iOS(iOS9.1)
-![4个targets](./zhi_zuo_framework/06.png)
+![设置BaseSDK](./zhi_zuo_framework/06.png)
 
 
 
