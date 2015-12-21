@@ -147,7 +147,17 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 ![podfile](./zhi_zuo_framework/25.png)
 
+Podfile的内容
+```
+workspace ‘FrameworkDemo’
+xcodeproj ‘FrameworkDemo.xcodeproj'
 
+link_with 'FrameworkDemoTest'
+
+#install pop for animation
+pod 'pop'
+
+```
 
 ## 多架构编译
 
