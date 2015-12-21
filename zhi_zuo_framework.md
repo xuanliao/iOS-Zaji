@@ -68,8 +68,10 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 **注意：**这三个组中Public是你期望公布出去的头文件，Private下的头文件依然是可以暴露出来的，而Project下的头文件对于你的工程来说才是“私有”的，因此应该尽量将头文件加入Public或者Project下面。
 
 #### Step 3 管理项目Target
-![Headers](./zhi_zuo_framework/14.png)
-![Headers](./zhi_zuo_framework/15.png)
+![Manage Schemes](./zhi_zuo_framework/14.png)
+![Manage Schemes管理界面](./zhi_zuo_framework/15.png)
+如上图FrameworkDemoTest是测试app，FrameworkDemo是我们需要生成静态Framework。
+![Manage Schemes管理界面](./zhi_zuo_framework/16.png)
 
 
 ## 如何使用Framework
