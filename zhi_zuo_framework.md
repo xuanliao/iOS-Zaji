@@ -161,6 +161,8 @@ pod 'pop'
 ```
 我们使用了第三方库[pop](https://github.com/facebook/pop)。
 
+#### Step 2 在终端中cd到项目目录，执行pod install命令，来重新构建我们的项目。
+
 ## 多架构编译
 
 ## 打包资源
