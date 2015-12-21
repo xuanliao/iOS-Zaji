@@ -137,7 +137,9 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 **我们成功啦！**
 
 ## 如何在Framework中使用第三方库
-编写项目库，正如开发项目一样，难免会应用第三方代码。
+编写项目库，正如开发项目一样，难免会应用第三方代码。而我们如何来引入第三方代码呢？
+* 直接导入第三方代码，这种方式很不美观，我们不仅得当成自己的代码维护，而且还的管理它们的更新。
+* [Cocoapods](https://cocoapods.org/)给我们带来了第三方代码管理的依赖，把我们从第三方代码的管理中解脱出来。
 
 ## 多架构编译
 
