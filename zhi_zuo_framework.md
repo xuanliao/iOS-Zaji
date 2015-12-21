@@ -86,6 +86,8 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 我们不仅可以在[build-phases](./zhi_zuo_framework.md#step-29-在build-phases标签加入copy-headers用于公开发布头文件)中选择头文件，还可以在辅助面板中直接选择公布的属性。
 ![公布头文件](./zhi_zuo_framework/19.png)
 
+* 添加代码
+
 
 ## 如何使用Framework
 
