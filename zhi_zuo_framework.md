@@ -164,6 +164,7 @@ pod 'pop'
 #### Step 2 在终端中cd到项目目录，执行pod install命令，来重新构建我们的项目。
 ![构建项目](./zhi_zuo_framework/26.png)
 
+#### Step 3 打开pod生成的FrameworkDemo.xcworkspace，我们可以看到pop库已经注入到我们的项目中。
 
 ## 多架构编译
 
