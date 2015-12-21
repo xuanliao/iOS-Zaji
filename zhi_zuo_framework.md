@@ -234,7 +234,7 @@ Test.m
 我们添加了一个执行透明动画的函数，但是很不幸的是报错了。
 错误主要原因是```POP.h file not found```。 我们不是加入了依赖嘛，怎么还会出现引用不到头文件的错误呢？
 咱们可以回过头看下Podfile文件内这句```link_with 'FrameworkDemoTest'```，我们只是给FrameworkDemoTest.app加入了依赖项，也就是FrameworkDemo.framework没有加入。那我们是不是更改成
-```link_with 'FrameworkDemoTest', 'FrameworkDemo'```就OK了嘛？当然不是啦，因为外部.a文件不能添加到framework中。
+```link_with 'FrameworkDemoTest', 'FrameworkDemo'```就OK了嘛？当然不是啦，因为外部.a文件不能添加到framework中。那如何做呢？
 
 
 ## 多架构编译
