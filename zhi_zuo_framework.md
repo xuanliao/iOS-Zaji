@@ -54,6 +54,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 * Dead Code Stripping设置为NO
 * Strip Debug Symbol During Copy 设置为NO
 * Strip Style设置为Non-Global Symbols
+* Mac-O Type设置为Relocatable Object File选择生成文件格式
 ![设置Deployment2](./zhi_zuo_framework/09.png)
 
 
