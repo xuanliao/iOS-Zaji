@@ -114,6 +114,9 @@ Test.m
 如图我们可以清楚的看到生成的framework的目录下包含FrameworkDemo静态库（.a）和Headers公布的头文件目录。
 
 ## 如何使用Framework
+在FrameworkDemoTest.app中我们可以编写示例代码，如图，我们在ViewController中使用了刚刚编写的Test类。
+![示例代码](./zhi_zuo_framework/22.png)
+
 
 ## 如何在Framework中使用第三方库
 
