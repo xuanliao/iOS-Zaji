@@ -66,7 +66,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 添加完成后会出现Public、Private和Project。
 ![Headers](./zhi_zuo_framework/13.png)
 **注意：**这三个组中Public是你期望公布出去的头文件，Private下的头文件依然是可以暴露出来的，而Project下的头文件对于你的工程来说才是“私有”的，因此应该尽量将头文件加入Public或者Project下面。
-#### Step 2.10
+#### Step 3 
 
 ## 如何使用Framework
 
