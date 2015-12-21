@@ -127,7 +127,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ```
 原因是因为我们没有将生成的Framework添加到Demo项目中。
 
-很简单，将之前我们生成的FrameworkDemo.framework直接拖到项目中。
+* 很简单，将之前我们生成的FrameworkDemo.framework直接拖到项目中。
 ![添加Framework](./zhi_zuo_framework/23.png)
 
 
