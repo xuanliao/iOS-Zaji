@@ -143,6 +143,9 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 问题来了我们如何在编写静态Framework时使用Cocoapods呢？那么跟着教程来吧。
 
+#### Step 1 在项目目录下添加Podfile文件
+
+
 ## 多架构编译
 
 ## 打包资源
