@@ -184,9 +184,6 @@ Test.h
 typedef void (^AMAnimationCompletionBlock)(POPAnimation *anim, BOOL finished);
 
 @interface Test : NSObject
-
-+ (void)testSuccess;
-
 /**
  @author XuanPeng, 15-12-14 13:12:47
  
