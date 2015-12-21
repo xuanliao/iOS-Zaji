@@ -116,6 +116,15 @@ Test.m
 ## 如何使用Framework
 在FrameworkDemoTest.app中我们可以编写示例代码，如图，我们在ViewController中使用了刚刚编写的Test类。
 ![示例代码](./zhi_zuo_framework/22.png)
+但是很不幸的是，报错了。
+```
+Undefined symbols for architecture i386:
+  "_OBJC_CLASS_$_Test", referenced from:
+      objc-class-ref in ViewController.o
+ld: symbol(s) not found for architecture i386
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+
+```
 
 
 ## 如何在Framework中使用第三方库
