@@ -147,6 +147,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 ![podfile](./zhi_zuo_framework/25.png)
 
+
 Podfile的内容
 ```
 workspace ‘FrameworkDemo’
@@ -158,6 +159,7 @@ link_with 'FrameworkDemoTest'
 pod 'pop'
 
 ```
+
 
 ## 多架构编译
 
