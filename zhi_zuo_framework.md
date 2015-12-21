@@ -145,6 +145,8 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 #### Step 1 在项目目录下添加Podfile文件
 
+![podfile](./zhi_zuo_framework/25.png)
+
 
 ## 多架构编译
 
