@@ -129,6 +129,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 很简单，将之前我们生成的FrameworkDemo.framework直接拖到项目中。
 ![添加Framework](./zhi_zuo_framework/23.png)
+
 再次运行我们可以看到控制台中输出Hello world, FrameworkDemo。 
 
 **我们成功啦！**
