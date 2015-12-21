@@ -53,6 +53,7 @@ Family”更改成“1、2”，意思表明是iPhone/iPad。
 ![设置Deployment2](./zhi_zuo_framework/08.png)
 
 #### Step 2.6 FrameworkDemo:在Deployment下，
+![设置Deployment2](./zhi_zuo_framework/09.png)
 
 
 ## 如何使用Framework
