@@ -80,6 +80,10 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ![创建Test类2](./zhi_zuo_framework/18.png)
 **注意：**targets选择的是FrameworkDemo。
 
+* 公布Test头文件
+ 
+我们不仅可以在
+
 
 ## 如何使用Framework
 
