@@ -125,6 +125,7 @@ ld: symbol(s) not found for architecture i386
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 ```
+原因是因为我们没有将生成的Framework添加到Demo项目中。
 
 
 ## 如何在Framework中使用第三方库
