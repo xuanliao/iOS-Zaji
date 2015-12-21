@@ -47,7 +47,10 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 
 Family”更改成“1、2”，意思表明是iPhone/iPad。
 
-![设置Deployment](./zhi_zuo_framework/07.png)
+将"iOS Deployment Traget"，更改成"iOS 7.0", 表明静态库支持7.0以上版本。
+
+![设置Deployment1](./zhi_zuo_framework/07.png)
+![设置Deployment2](./zhi_zuo_framework/08.png)
 
 
 ## 如何使用Framework
