@@ -141,7 +141,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 * 直接导入第三方代码，这种方式很不美观，我们不仅得当成自己的代码维护，而且还的管理它们的更新。
 * [Cocoapods](https://cocoapods.org/)给我们带来了第三方代码管理的依赖，把我们从第三方代码的管理中解脱出来，事实上这个也是现有iOS开发中使用最多的项目依赖管理方式。
 
-问题来了我们如何在编写静态Framework时使用Cocoapods呢？
+问题来了我们如何在编写静态Framework时使用Cocoapods呢？那么跟着教程来吧。
 
 ## 多架构编译
 
