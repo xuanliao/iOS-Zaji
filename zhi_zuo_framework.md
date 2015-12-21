@@ -72,6 +72,10 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ![Manage Schemes管理界面](./zhi_zuo_framework/15.png)
 如上图FrameworkDemoTest是测试app，FrameworkDemo是我们需要生成静态Framework。
 ![Products](./zhi_zuo_framework/16.png)
+在Products下面就是我们run后生成的文件，现在红色表明没有生成。
+
+接下来我们来给我们的framework添加共享代码，这边添加Test类为例。
+
 
 
 ## 如何使用Framework
