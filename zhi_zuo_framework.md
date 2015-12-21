@@ -61,6 +61,8 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 ![设置Wrapper Extention](./zhi_zuo_framework/10.png)
 #### Step 2.8 在 info标签中，将“Bundle OS Type Code” 改为 “FMWK”（Framework ）
 ![设置info](./zhi_zuo_framework/11.png)
+#### Step 2.9 在Build Phases标签，加入Copy Headers，用于公开发布头文件。
+
 
 ## 如何使用Framework
 
