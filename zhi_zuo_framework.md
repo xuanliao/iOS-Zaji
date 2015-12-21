@@ -57,7 +57,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 * Mac-O Type设置为Relocatable Object File，选择生成文件格式
 ![设置Deployment2](./zhi_zuo_framework/09.png)
 
-#### Step 2.7 如果在
+#### Step 2.7 如果在[Step 2.2](./zhi_zuo_framework.md#step-22-以工程名添加bundle)
 
 ## 如何使用Framework
 
