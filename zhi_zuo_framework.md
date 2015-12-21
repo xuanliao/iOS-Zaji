@@ -159,7 +159,7 @@ link_with 'FrameworkDemoTest'
 pod 'pop'
 
 ```
-
+我们使用了第三方库[pop](https://github.com/facebook/pop)。
 
 ## 多架构编译
 
