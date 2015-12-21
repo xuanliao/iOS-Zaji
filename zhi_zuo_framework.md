@@ -52,7 +52,7 @@ Family”更改成“1、2”，意思表明是iPhone/iPad。
 ![设置Deployment1](./zhi_zuo_framework/07.png)
 ![设置Deployment2](./zhi_zuo_framework/08.png)
 
-#### Step 2.6 FrameworkDemo:在Deployment下，
+#### Step 2.6 因为创建的framework是供其他人使用，最好禁掉以下的功能（无效代码和Debug符号），让用户自己选择对自己项目有利的部分。
 ![设置Deployment2](./zhi_zuo_framework/09.png)
 
 
