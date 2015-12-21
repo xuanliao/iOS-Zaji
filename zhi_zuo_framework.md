@@ -64,7 +64,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 #### Step 2.9 在Build Phases标签，加入Copy Headers，用于公开发布头文件。
 ![Copy Headers](./zhi_zuo_framework/12.png)
 添加完成后会出现Public、Private和Project。
-![Headers](./zhi_zuo_framework/12.png)
+![Headers](./zhi_zuo_framework/13.png)
 **注意：**这三个组中Public是你期望公布出去的头文件，Private下的头文件依然是可以暴露出来的，而Project下的头文件对于你的工程来说才是“私有”的，因此应该尽量将头文件加入Public或者Project下面。
 #### Step 2.10
 
