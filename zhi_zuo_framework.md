@@ -109,6 +109,7 @@ Test.m
 
 ```
 到此，前期的准备工作已经完成，我们可以选择我们需要编译的版本，command+R运行获得Product。
+![选择版本](./zhi_zuo_framework/21.png)
 
 
 ## 如何使用Framework
