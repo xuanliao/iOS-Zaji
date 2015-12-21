@@ -76,6 +76,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 
 接下来我们来给我们的framework添加共享代码，这边添加Test类为例。
 ![创建Test类](./zhi_zuo_framework/17.png)
+![创建Test类](./zhi_zuo_framework/18.png)
 
 ## 如何使用Framework
 
