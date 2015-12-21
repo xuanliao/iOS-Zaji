@@ -131,8 +131,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 ![添加Framework](./zhi_zuo_framework/23.png)
 再次运行我们可以看到控制台中输出Hello world, FrameworkDemo。 
 
-我们成功啦！
-
+**我们成功啦！**
 
 ## 如何在Framework中使用第三方库
 
