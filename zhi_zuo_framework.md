@@ -75,7 +75,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 在Products下面就是我们run后生成的文件，现在红色表明没有生成。
 
 接下来我们来给我们的framework添加共享代码，这边添加Test类为例。
-![Products](./zhi_zuo_framework/1.png)
+![Products](./zhi_zuo_framework/17.png)
 
 ## 如何使用Framework
 
