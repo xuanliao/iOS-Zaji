@@ -64,7 +64,7 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 #### Step 2.9 在Build Phases标签，加入Copy Headers，用于公开发布头文件。
 ![Copy Headers](./zhi_zuo_framework/12.png)
 添加完成后会出现Public、Private和Project。
-
+![Headers](./zhi_zuo_framework/12.png)
 
 ## 如何使用Framework
 
