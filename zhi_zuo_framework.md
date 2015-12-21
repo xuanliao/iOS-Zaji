@@ -59,7 +59,8 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 
 #### Step 2.7 如果在[Step 2.2](./zhi_zuo_framework.md#step-22-以工程名添加bundle)中没有设置Bundle Extension为framework，可以在Packaing中，将"Wrapper Extention"改为"framework"。
 ![设置Wrapper Extention](./zhi_zuo_framework/10.png)
-
+#### Step 2.8 在 info标签中，将“Bundle OS Type Code” 改为 “FMWK”（Framework ）
+![设置info](./zhi_zuo_framework/11.png)
 
 ## 如何使用Framework
 
