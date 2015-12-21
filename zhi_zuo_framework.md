@@ -45,7 +45,6 @@ Framework可以理解为一个资源的集合（文件夹），将静态库和�
 * 确保"OS X Deployment Target"指向最新的os x
 将“Targeted Device。
 * Family”更改成“1、2”，意思表明是iPhone/iPad。
-
 * 将"iOS Deployment Traget"，更改成"iOS 7.0", 表明静态库支持7.0以上版本。
 
 ![设置Deployment1](./zhi_zuo_framework/07.png)
