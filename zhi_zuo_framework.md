@@ -137,6 +137,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 **我们成功啦！**
 
 ## 如何在Framework中使用第三方库
+编写项目库，正如开发项目一样，难免会应用第三方代码。
 
 ## 多架构编译
 
