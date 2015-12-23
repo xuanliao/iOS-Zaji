@@ -303,5 +303,8 @@ lipo -create -output "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework/${PROJ
 ```
 在脚本中我们先用```xcodebuild```命令将多个架构的framework文件编译出来，然后将这些framework文件复制到之前定义的```UNIVERSAL_OUTPUTFOLDER```路径下，最后执行```lipo```命令将多个framework合并成一个多架构的framework。
 
+OK，到这里我们可以编译这个Framework target，编译成功后会在项目文件夹内多了build文件夹，而build文件夹内就是我们生成的支持多架构的framework。
+
+
 
 ## 打包资源
