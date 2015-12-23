@@ -321,5 +321,7 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![重新添加framework1](./zhi_zuo_framework/36.png)
 
+![重新添加framework1](./zhi_zuo_framework/36.png)
+
 
 ## 打包资源
