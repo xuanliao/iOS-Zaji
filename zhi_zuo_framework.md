@@ -242,6 +242,7 @@ Test.m
 
 ![引入pod文件路径](./zhi_zuo_framework/28.png)
 
+* 解决原因：
 
 ## 多架构编译
 
