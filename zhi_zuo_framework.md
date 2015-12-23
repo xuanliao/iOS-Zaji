@@ -261,6 +261,8 @@ Test.m
 
 ![lipo1](./zhi_zuo_framework/38.png)
 
+正如图，我们这个版本只能支持在32位模拟器上使用，那么我们必须提供多个不同版本的framework嘛？
+
 
 
 ## 打包资源
