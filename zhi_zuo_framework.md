@@ -242,7 +242,7 @@ Test.m
 
 ![引入pod文件路径](./zhi_zuo_framework/28.png)
 
-* 解决原因：竟然不能将第三方的.a文件打入framework中，那我们完全可以让这些依赖项让需要使用framework的工程来管理，就想我们这里将pod的依赖关联到FrameworkDemoTest而不是FrameworkDemo。
+* 解决原因：竟然不能将第三方的.a文件打入framework中，那我们完全可以将这些依赖项让需要使用framework的工程来管理，就想我们这里将pod的依赖关联到FrameworkDemoTest而不是FrameworkDemo。
 
 
 ## 多架构编译
