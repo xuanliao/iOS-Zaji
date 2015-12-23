@@ -275,7 +275,7 @@ Test.m
 
 #### Step3 添加运行Shell脚本
 
-![framework取名](./zhi_zuo_framework/31.png)
+![添加运行shell脚本](./zhi_zuo_framework/31.png)
 
 
 
