@@ -240,6 +240,7 @@ Test.m
 
 * 解决方法：
 
+![引入pod文件路径](./zhi_zuo_framework/27.png)
 
 
 ## 多架构编译
