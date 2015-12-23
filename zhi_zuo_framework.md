@@ -305,7 +305,7 @@ lipo -create -output "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework/${PROJ
 
 OK，到这里我们可以编译这个Framework target，编译成功后会在项目文件夹内多了build文件夹，而build文件夹内就是我们生成的支持多架构的framework。
 
-![添加运行shell脚本代码](./zhi_zuo_framework/33.png)
+![添加运行shell脚本代码](./zhi_zuo_framework/35.png)
 
 
 
