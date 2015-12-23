@@ -310,5 +310,7 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 在终端中cd到这个framework目录下，在执行```lipo -info xx```，如果以支持多个架构，当然这个才是我们可以最终提供给其他人使用的framework。
 ![添加运行shell脚本代码](./zhi_zuo_framework/39.png)
 
+#### Step4 测试项目更改（FrameworkDemoTest）
+* 
 
 ## 打包资源
