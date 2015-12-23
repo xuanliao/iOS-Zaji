@@ -266,7 +266,7 @@ Test.m
 
 #### Step1 创建一个新的target
 
-![lipo1](./zhi_zuo_framework/29.png)
+![Aggregate](./zhi_zuo_framework/29.png)
 
 
 
