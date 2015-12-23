@@ -273,7 +273,9 @@ Test.m
 #### Step2 新的target取名为Framework
 ![framework取名](./zhi_zuo_framework/30.png)
 
+#### Step3 添加运行Shell脚本
 
+![framework取名](./zhi_zuo_framework/31.png)
 
 
 
