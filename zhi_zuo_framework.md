@@ -259,7 +259,7 @@ Test.m
 这意味着我们提供的framework必须支持以上所有的CPU架构。```lipo -info xxx```这个命令能打印出framework中的静态库文件（.a）支持的CPU架构。
 那么我们cd到之前编译的FrameworkDemo.framework的文件夹中，执行上面命令看看。
 
-![构建项目](./zhi_zuo_framework/38.png)
+![lipo1](./zhi_zuo_framework/38.png)
 
 
 
