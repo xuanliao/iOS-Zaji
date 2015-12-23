@@ -268,8 +268,11 @@ Test.m
 
 ![Aggregate](./zhi_zuo_framework/29.png)
 
+为什么是Aggregate？因为我们这边只是需要将之前生成的framework合并一个多架构的framework，不需要生成新的product。
+
 #### Step2 新的target取名为Framework
 ![framework取名](./zhi_zuo_framework/30.png)
+
 
 
 
