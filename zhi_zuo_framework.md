@@ -238,7 +238,7 @@ Test.m
 
 ** 解决编写framework中引用Pod内项目问题？**
 
-* 解决方法：
+* 解决方法： 在FrameworkDemo的target的Build Settings中添加Header Search Paths 为$(SRCROOT)/Pods,注意将后面的属性选择成recursive。
 
 ![引入pod文件路径](./zhi_zuo_framework/28.png)
 
