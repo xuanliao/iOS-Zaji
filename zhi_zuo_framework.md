@@ -313,6 +313,8 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 #### Step4 测试项目更改（FrameworkDemoTest）
 * 在FrameworkDemoTest target中，添加Framework的依赖，这样可以直接编译FrameworkDemoTest的同时编译Framework target，这样能保证使用的是最新的framework。
 
+![添加项目依赖1](./zhi_zuo_framework/33.png)
+![添加项目依赖2](./zhi_zuo_framework/34.png)
 
 
 ## 打包资源
