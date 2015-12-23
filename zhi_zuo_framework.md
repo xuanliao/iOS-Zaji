@@ -305,5 +305,7 @@ cp -R "${BUILD_DIR}/${CONFIGURATION}-iphoneos/AMSDKResource.bundle" "${UNIVERSAL
 lipo -create -output "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework/${PROJECT_NAME}" "${BUILD_DIR}/${CONFIGURATION}-iphonesimulator/${PROJECT_NAME}.framework/${PROJECT_NAME}" "${BUILD_DIR}/${CONFIGURATION}-iphoneos/${PROJECT_NAME}.framework/${PROJECT_NAME}"
 ```
 
+解释：
+
 
 ## 打包资源
