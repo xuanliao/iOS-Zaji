@@ -244,7 +244,8 @@ Test.m
 
 * 解决原因：竟然不能将第三方的.a文件打入framework中，那我们完全可以将这些依赖项让需要使用framework的工程来管理，就想我们这里将pod的依赖关联到FrameworkDemoTest而不是FrameworkDemo，我们仅仅只要将使用的第三方库的列表公布出去。那如何来引用第三方库的头文件呢？我们这边只需要配置一下FrameworkDemo的头文件搜索路径就可以了。
 * 说明：在配置头文件搜索路径时，我们配置的是Header Search Paths而不是User Header Search Paths，因为一些第三方库内的头文件引用会如这样
-```#import <pop/POPDefines.h>
+```
+#import <pop/POPDefines.h>
 ```
 
 
