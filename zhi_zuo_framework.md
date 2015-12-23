@@ -301,7 +301,7 @@ cp -R "${BUILD_DIR}/${CONFIGURATION}-iphoneos/${PROJECT_NAME}.framework" "${UNIV
 # Step 4. Create universal binary file using lipo and place the combined executable in the copied framework directory
 lipo -create -output "${UNIVERSAL_OUTPUTFOLDER}/${PROJECT_NAME}.framework/${PROJECT_NAME}" "${BUILD_DIR}/${CONFIGURATION}-iphonesimulator/${PROJECT_NAME}.framework/${PROJECT_NAME}" "${BUILD_DIR}/${CONFIGURATION}-iphoneos/${PROJECT_NAME}.framework/${PROJECT_NAME}"
 ```
-
+在脚本中我们先用```xcodebuild```命令将多个架构的framework文件编译出来，然后将这些framework文件复制到之前定义的```UNIVERSAL_OUTPUTFOLDER```路径下，最后执行```lipo```命令将多个framework合并成一个多架构的framework。
 
 
 ## 打包资源
