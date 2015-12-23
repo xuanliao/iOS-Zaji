@@ -325,6 +325,6 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![重新添加framework2](./zhi_zuo_framework/37.png)
 
-**Add Other... 中选择刚刚生成的build路径下的framework**
+**再次提醒Add Other... 中选择刚刚生成的build路径下的framework**
 
 ## 打包资源
