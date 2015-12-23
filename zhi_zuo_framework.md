@@ -317,7 +317,9 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![添加项目依赖2](./zhi_zuo_framework/34.png)
 
-* 不要忘记将之前引入的FrameworkDemo.framework删除掉，重新添加我们新生成的支持多架构的framework。这里有个技巧，直接添加build路径下的framework，因为这个路径下的framework是实时更新的。
+* 不要忘记将之前引入的FrameworkDemo.framework删除掉，重新添加我们新生成的支持多架构的framework。
+
+**这里有个技巧，直接添加build路径下的framework，因为这个路径下的framework是实时更新的。**
 
 ![重新添加framework1](./zhi_zuo_framework/36.png)
 
