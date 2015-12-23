@@ -268,6 +268,10 @@ Test.m
 
 ![Aggregate](./zhi_zuo_framework/29.png)
 
+#### Step2 新的target取名为Framework
+![framework取名](./zhi_zuo_framework/30.png)
+
+
 
 
 ## 打包资源
