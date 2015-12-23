@@ -277,6 +277,11 @@ Test.m
 
 ![添加运行shell脚本](./zhi_zuo_framework/31.png)
 
+#### Step4 添加脚本代码
+
+![添加运行shell脚本](./zhi_zuo_framework/31.png)
+
+
 
 
 ## 打包资源
