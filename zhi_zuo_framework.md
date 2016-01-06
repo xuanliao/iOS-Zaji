@@ -343,4 +343,4 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 *** Terminating app due to uncaught exception 'NSInternalInconsistencyException', reason: 'Could not load NIB in bundle: 'NSBundle </var/mobile/Containers/Bundle/Application/9759BC38-BFA5-4379-A4A7-3D7C1BFD4674/FrameworkDemoTest.app> (loaded)' with name 'TestViewController''
 
 ```
-
+原因很明显找不到xib文件。
