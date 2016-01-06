@@ -365,6 +365,7 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 #### Step 4 在FrameworkDemo.framework中添加项目依赖，这样确保编译FrameworkDemo.framework时，新的FrameworkDemoResource.bundle也会编译打包。
 
+![bundle添加依赖](./zhi_zuo_framework/45.png)
 
 
 
