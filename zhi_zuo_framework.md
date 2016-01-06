@@ -363,6 +363,8 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 **以上资源打包文件就已经创建好了，接下来我们讲讲一些编译技巧和如何使用？**
 
-#### Step 4
+#### Step 4 在FrameworkDemo.framework中添加项目依赖，这样确保编译FrameworkDemo.framework时，新的FrameworkDemoResource.bundle也会编译打包。
+
+
 
 
