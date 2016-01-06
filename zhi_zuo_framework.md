@@ -353,5 +353,8 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![new bundle](./zhi_zuo_framework/42.png)
 
-#### Step 1 在项目中创建新的target FrameworkDemoResource.bundle
+#### Step 2 将xib文件添加进FrameworkDemoResource.bundle内
+
+![add xib](./zhi_zuo_framework/43.png)
+
 
