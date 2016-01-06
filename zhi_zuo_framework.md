@@ -333,3 +333,8 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 在FrameworkDemo项目中直接push进TestViewController，添加代码如下：
 
+```
+    TestViewController *viewController = [[TestViewController alloc] initWithNibName:@"TestViewController" bundle:nil];
+
+    [self.navigationController pushViewController:viewController animated:true];
+```
