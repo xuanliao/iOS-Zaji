@@ -367,7 +367,8 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![bundle添加依赖](./zhi_zuo_framework/45.png)
 
-#### Step 5 
+#### Step 5 在Framework的target的脚本中增加一行脚本，用于将新的FrameworkDemoResource.bundle copy到项目的build文件夹内。
+
 
 
 
