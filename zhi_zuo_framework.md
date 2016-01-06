@@ -379,8 +379,8 @@ Ok，到这里我们再次build Framework这个target，成功后会在如图的
 
 ![bundle 添加到项目中](./zhi_zuo_framework/48.png)
 
-这边需要注意一下，现在的xib不在当前的项目bundle内，所以我们需要修改下创建TestViewController的代码。
-```
+**这边需要注意一下，现在的xib不在当前的项目bundle内，所以我们需要修改下创建TestViewController的代码。
+**```
     TestViewController *viewController = [[TestViewController alloc] initWithNibName:@"TestViewController"
                                                                               bundle:[NSBundle bundleWithURL:[[NSBundle mainBundle] URLForResource:@"FrameworkDemoResource"
                                                                                                                                      withExtension:@"bundle"]]];
