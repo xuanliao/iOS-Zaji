@@ -347,4 +347,6 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 先来说说第一个问题，Xcode build项目时是将xib文件当成资源文件进行编译打包到app安装包内。注意：TestViewController.xib现在是在FrameworkDemo.framework项目内，可悲的是framework内不能打包进资源文件。也就是FrameworkDemo.framework内根本就没有这个xib文件，最终导致外部使用这个TestViewController时会crash报错（或者直接黑屏）。
 
-如何解决？再次使用bundle文件。
+如何解决？再次使用bundle文件，将我们的xib文件打包到bundle文件内导出和FrameworkDemo.framework一起使用。具体步骤如下：
+
+
