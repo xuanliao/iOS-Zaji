@@ -357,4 +357,10 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 ![add xib](./zhi_zuo_framework/43.png)
 
+#### Step 3 修改FrameworkDemoResource.bundle内的文件仅供iOS使用
+
+![修改bundle settings](./zhi_zuo_framework/46.png)
+
+
+
 
