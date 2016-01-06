@@ -349,4 +349,6 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 如何解决？再次使用bundle文件，将我们的xib文件打包到bundle文件内导出和FrameworkDemo.framework一起使用。具体步骤如下：
 
+#### Step 1 在项目中创建新的target FrameworkDemoResource.bundle
+![new bundle](./zhi_zuo_framework/42.png)
 
