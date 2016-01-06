@@ -392,4 +392,6 @@ Ok，到这里我们再次build Framework这个target，成功后会在如图的
 总结一下，到此我们讲了
 1 静态Framework的制作方法
 2 如何使用Cocoapods来添加第三方库
-3 
+3 如何支持多架构编译
+4 如何打包资源
+
