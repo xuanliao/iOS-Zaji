@@ -345,4 +345,4 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 ```
 原因很明显找不到xib文件。那么问题来了，我们已经实现了TestViewController.xib文件，为什么还是找不到呢？如何解决这个问题？
 
-
+先来说说第一个问题，Xcode build项目时是将xib文件当成资源文件进行编译打包到app安装包内。
