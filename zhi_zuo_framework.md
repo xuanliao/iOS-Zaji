@@ -389,4 +389,7 @@ Ok，到这里我们再次build Framework这个target，成功后会在如图的
 在此运行项目。哇，成功的出现我们自定义的viewcontroller了。
 
 到此，我们终于讲完了静态Framework的制作方法，这边也许不是唯一的方法，但是是一个可行的方法。
-总结一下，
+总结一下，到此我们讲了
+1 静态Framework的制作方法
+2 如何使用Cocoapods来添加第三方库
+3 
