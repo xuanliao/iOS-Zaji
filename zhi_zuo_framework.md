@@ -375,3 +375,7 @@ Ok，到这里我们再次build Framework这个target，成功后会在如图的
 
 ![bundle build成功](./zhi_zuo_framework/47.png)
 
+#### Step 6 使用，在FrameworkDemoTest项目中添加刚刚bundle资源。
+
+
+
