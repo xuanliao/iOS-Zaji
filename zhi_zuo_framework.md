@@ -328,3 +328,5 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 **再次提醒Add Other... 中选择刚刚生成的build路径下的framework**
 
 ## 打包资源
+开始增加难度，准备在framework中实现一个带xib的viewcontroller，将头文件对外公布。
+![自定义viewcontroller](./zhi_zuo_framework/49.png)
