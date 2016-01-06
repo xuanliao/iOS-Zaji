@@ -401,4 +401,7 @@ Ok，到这里我们再次build Framework这个target，成功后会在如图的
 
 参考资料：
 [Xcode6.1标准Framework静态库制作方法。工程转Framework，静态库加xib和图片。完美解决方案。](http://www.cocoachina.com/bbs/read.php?tid-282490-page-1.html)
+
+
 [iOS开发——创建你自己的Framework](http://www.cocoachina.com/ios/20150127/11022.html)
+
