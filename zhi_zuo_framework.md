@@ -330,3 +330,6 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 ## 打包资源
 开始增加难度，准备在framework中实现一个带xib的TestViewController，将头文件对外公布。
 ![自定义viewcontroller](./zhi_zuo_framework/49.png)
+
+在FrameworkDemo项目中直接push进TestViewController，添加代码如下：
+
