@@ -338,3 +338,5 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
     [self.navigationController pushViewController:viewController animated:true];
 ```
+运行代码，结果确是黑屏。
+
