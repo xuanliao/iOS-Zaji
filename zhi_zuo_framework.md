@@ -373,3 +373,5 @@ OK，到这里我们可以编译这个Framework target，编译成功后会在�
 
 Ok，到这里我们再次build Framework这个target，成功后会在如图的文件夹内发现新的framework和bundle文件。
 
+![bundle添加脚本](./zhi_zuo_framework/47.png)
+
